@@ -1,6 +1,6 @@
-# Makine Öğrenmesi Uzmanlaşma (Machine Learning Specialization)
+# Makine Öğrenmesi Uzmanlaşma (Coursera-Makine-Ogrenmesi-Uzmanlasma)
 
-Bu depo, Coursera üzerinde **Andrew Ng** tarafından verilen [Makine Öğrenmesi Uzmanlaşma](https://www.coursera.org/specializations/machine-learning-introduction) kursundaki laboratuvar çalışmaları, alıştırmalar ve kişisel notlarımı içermektedir.  
+Bu depo, Coursera üzerinde **Andrew Ng** tarafından verilen [Makine Öğrenmesi Uzmanlaşma](https://www.coursera.org/specializations/Coursera-Makine-Ogrenmesi-Uzmanlasma) kursundaki laboratuvar çalışmaları ve alıştırmalar.
 Bu uzmanlaşma, modern makine öğrenmesine kapsamlı ve uygulamalı bir giriş sunar; denetimli öğrenme, denetimsiz öğrenme ve gerçek dünyaya yönelik uygulama pratiklerini kapsar.
 
 ---
@@ -23,8 +23,9 @@ Kurs toplamda üç bölümden oluşmaktadır:
 ## 📂 Depo Yapısı
 
 ```
-machine-learning-specialization/
+Coursera-Makine-Ogrenmesi-Uzmanlasma/
 │
+
 ├── kurs1-denetimli-ogrenme/
 │   ├── hafta1/
 │   ├── hafta2/
@@ -62,7 +63,7 @@ Her klasör, ilgili haftanın Jupyter Notebook dosyalarını (`.ipynb`) ve kod u
 
 1. Depoyu klonlayın:  
    ```bash
-   git clone https://github.com/<kullanıcı-adın>/machine-learning-specialization.git
+   git clone https://github.com/<kullanıcı-adın>/Coursera-Makine-Ogrenmesi-Uzmanlasma.git
    ```
 2. İlgili notebook dosyasını Jupyter Notebook veya VS Code ile açın.  
 3. Hücreleri çalıştırarak alıştırmaları inceleyin ve deneyin.
