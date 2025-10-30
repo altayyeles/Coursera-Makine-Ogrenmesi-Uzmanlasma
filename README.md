@@ -1,6 +1,6 @@
 # Makine Öğrenmesi Uzmanlaşma (Coursera-Makine-Ogrenmesi-Uzmanlasma)
 
-Bu depo, Coursera üzerinde **Andrew Ng** tarafından verilen [Makine Öğrenmesi Uzmanlaşma](https://www.coursera.org/specializations/Coursera-Makine-Ogrenmesi-Uzmanlasma) kursundaki laboratuvar çalışmaları ve alıştırmalar.
+Bu depo, Coursera üzerinde **Andrew Ng** tarafından verilen [Makine Öğrenmesi Uzmanlaşma](https://www.coursera.org/specializations/machine-learning-specilization) kursundaki laboratuvar çalışmaları ve alıştırmalar.
 Bu uzmanlaşma, modern makine öğrenmesine kapsamlı ve uygulamalı bir giriş sunar; denetimli öğrenme, denetimsiz öğrenme ve gerçek dünyaya yönelik uygulama pratiklerini kapsar.
 
 ---
